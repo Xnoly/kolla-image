@@ -22,7 +22,7 @@ env:
   OPENSTACK_RELEASE: victoria
   ALIYUN_REGISTRY: registry.cn-hangzhou.aliyuncs.com
   ALIYUN_NAMESPACE: victoria
-
+ 
 jobs:
   get-kolla-images:
     runs-on: ubuntu-latest
