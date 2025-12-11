@@ -19,9 +19,9 @@ env:
   DOCKER_NAMESPACE: kolla
   KOLLA_BASE_DISTRO: ubuntu
   INSTALL_TYPE: source
-  OPENSTACK_RELEASE: victoria
+  OPENSTACK_RELEASE: 2025.2
   ALIYUN_REGISTRY: registry.cn-hangzhou.aliyuncs.com
-  ALIYUN_NAMESPACE: victoria
+  ALIYUN_NAMESPACE: 2025.2
  
 jobs:
   get-kolla-images:
